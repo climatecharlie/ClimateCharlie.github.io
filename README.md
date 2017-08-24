@@ -12,6 +12,8 @@ Climate Charley can show you how current temperature compares to historical data
 | 🌡️Weather | Tell me the current weather. | Returns the current temperature. |
 | 📔  Fact    | Tell me a fact about climate change. | Returns a random fact from the database. |
 
+### Examples
+
 ### References
 
 ## Privacy Policy
