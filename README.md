@@ -85,7 +85,7 @@ All the facts and pictures shown on in the application are the property of their
 
 ### Icon
 
-Icon made by Freepik from www.flaticon.com
+Icon made by Freepik from [www.flaticon.com](http://www.flaticon.com)
 
 ## Privacy Policy
 
