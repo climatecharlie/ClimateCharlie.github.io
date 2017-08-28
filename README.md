@@ -23,16 +23,16 @@ He also learns you facts about the evidence, causes and effects of global warmin
 
 ![Climate Chart](https://climatecharley.github.io/assets/images/chart.png)
 
-* "Chart"
-* "Historic Chart"
+* ,,Chart"
+* ,,Historic Chart"
 
-* "History of New York"
-* "Show me the chart of New York"
-* "Climate Chart New York"
+* ,,History of New York"
+* ,,Show me the chart of New York"
+* ,,Climate Chart New York"
 
-* "Chart of New York for the 4th of July"
-* "Show me the historic data for Christmas"
-* "Show me the historic data of New York for the 2nd of October"
+* ,,Chart of New York for the 4th of July"
+* ,,Show me the historic data for Christmas"
+* ,,Show me the historic data of New York for the 2nd of October"
 
 If no city or date is provided it will request your current location and the current date.
 
@@ -40,10 +40,10 @@ If no city or date is provided it will request your current location and the cur
 
 ![Current Temperature](https://climatecharley.github.io/assets/images/currentTemperature.png)
 
-* "Temperature"
-* "Current temperature"
-* "Show me the current temperature in New York"
-* "Weather in New York"
+* ,,Temperature"
+* ,,Current temperature"
+* ,,Show me the current temperature in New York"
+* ,,Weather in New York"
 
 If no city or date is provided it will request your current location and the current date.
 
@@ -51,21 +51,21 @@ If no city or date is provided it will request your current location and the cur
 
 ![Fact](https://climatecharley.github.io/assets/images/fact.png)
 
-* "Fact!"
-* "Tell me a fact."
-* "Tell me a fact about the causes of climate change!"
+* ,,Fact!"
+* ,,Tell me a fact."
+* ,,Tell me a fact about the causes of climate change!"
 
-* "Categories"
-* "Show me the fact categories"
-* "Can you show me the categories?"
+* ,,Categories"
+* ,,Show me the fact categories"
+* ,,Can you show me the categories?"
 
 If no category is provided it will responde a random fact.
 
 #### Character
 
-* "What can you do?"
-* "Can you help me?"
-* "About"
+* ,,What can you do?"
+* ,,Can you help me?"
+* ,,About"
 
 ## References
 
