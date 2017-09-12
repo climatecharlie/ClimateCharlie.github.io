@@ -12,7 +12,7 @@ He also learns you facts about the evidence, causes and effects of global warmin
 | Action | Invocation | Result |
 |---|---|---|
 | 📈  Chart   | Show me the historic chart of New York. | Returns a graph with historic temperatures for today.  |
-| 🌡️ Weather | Tell me the current weather. | Returns the current temperature for you current location. |
+| 🌡️  Weather | Tell me the current weather. | Returns the current temperature for you current location. |
 | 📔  Fact    | Tell me a fact about climate change. | Returns a random fact from the database. |
 
 🥚 Easteregg: Do not deny climate change!
