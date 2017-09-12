@@ -9,7 +9,7 @@ He also learns you facts about the evidence, causes and effects of global warmin
 
 ### Actions
 
-| Action | Invocation | Result |
+| Functionality | Invocation | Result |
 |---|---|---|
 | 📈  Chart   | Show me the historic chart of New York. | Returns a graph with historic temperatures for today.  |
 | 🌡️  Weather | Tell me the current weather. | Returns the current temperature for you current location. |
