@@ -1,10 +1,10 @@
 ## Documentation
 
-Climate Charley is a Bot for Google Assistant.
+Climate Charlie is a Bot for Google Assistant.
 
 ### Description
 
-Climate Charley can show you how current temperature compares to historical data with fancy graphs.
+Climate Charlie can show you how current temperature compares to historical data with fancy graphs.
 He also learns you facts about the evidence, causes and effects of global warming and climate change.
 
 ### Actions
@@ -21,7 +21,7 @@ He also learns you facts about the evidence, causes and effects of global warmin
 
 #### Historic Chart
 
-![Climate Chart](https://climatecharley.github.io/assets/images/chart.png)
+![Climate Chart](https://climatecharlie.github.io/assets/images/chart.png)
 
 * "Chart"
 * "Historic Chart"
@@ -38,7 +38,7 @@ If no city or date is provided it will request your current location and the cur
 
 #### Current Weather
 
-![Current Temperature](https://climatecharley.github.io/assets/images/currentTemperature.png)
+![Current Temperature](https://climatecharlie.github.io/assets/images/currentTemperature.png)
 
 * "Temperature"
 * "Current temperature"
@@ -49,7 +49,7 @@ If no city or date is provided it will request your current location and the cur
 
 #### Fact
 
-![Fact](https://climatecharley.github.io/assets/images/fact.png)
+![Fact](https://climatecharlie.github.io/assets/images/fact.png)
 
 * "Fact!"
 * "Tell me a fact."
